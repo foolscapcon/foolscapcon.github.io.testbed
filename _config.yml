@@ -34,7 +34,8 @@ blog :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 #url:  http://127.0.0.1:4000
-production_url : http://127.0.0.1:4000
+production_url : http://ghpages-test.foolscap.org/foolscapcon.github.io.testbed/
+development_url : http://127.0.0.1:4000
 #production_url : http://ghpages-test.foolscap.org
 
 gems: ["jekyll-sitemap"]
