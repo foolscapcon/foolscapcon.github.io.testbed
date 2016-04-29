@@ -10,7 +10,7 @@ highlighter: rogue
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Foolscap
+title : Foolscap - Feb. 5-7, 2016, in Seattle, Washington
 tagline: join the conversation  build the convention
 author :
   name : Name Lastname
@@ -19,6 +19,7 @@ author :
   twitter : username
   feedburner : feedname
 
+css_assets: "../assets"
 blog :
   logo : images/logo-full-3col-dark-0300x0100.png
   minilogo : images/logo-init-3col-0040x0050.png
