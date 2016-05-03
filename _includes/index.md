@@ -1,7 +1,4 @@
-﻿---
-layout: default
----
-# Foolscap
+﻿# Foolscap
 
 Join the conversation. Build the convention.
 February 5–7, 2017 at the Hilton Seatac Hotel in Seattle, Washington
