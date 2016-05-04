@@ -1,7 +1,7 @@
 ---
-layout: static
+layout: landing
 ---
-<hr>
 {% capture index %}{% include index.md %} {% endcapture %}
-{{ index | markdownify }}
-<hr>
+<div class="content">
+  {{ index | markdownify }}
+</div>

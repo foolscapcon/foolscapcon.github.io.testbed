@@ -1,9 +1,12 @@
-﻿# Foolscap
+﻿Foolscap<!-- setex style header, atx didn't work on first line -->
+==========
 
-Join the conversation. Build the convention.
+
+<!-- tagline -->{{ site.tagline }}
 February 5–7, 2017 at the Hilton Seatac Hotel in Seattle, Washington
 
-## <a name="about"></a>What _is_ Foolscap?
+{% assign heading = 'about' %}
+## <a name="{{ heading }}"></a> {{ site.landing[heading] }} {#{{ heading }}}
 
 ### We are a new kind of convention.
 
@@ -37,13 +40,13 @@ Starting with an empty scheduling grid, everyone will collaborate on what goes w
 
 If it sounds crazy and experimental, don’t worry – it’s been time-tested and successful at innumerable conventions including several years of Foolscap itself. Open-space works, and once you’ve experienced it, you’ll see why we’ve made it a core feature!
 
-## <a name="register"></a>How do I register?
+## <a name="register"></a>How do I register? {#register}
 
 To be part of the convention, you’ll need a membership. The money you spend on your membership supports the convention and its activities throughout the year. It includes admission to all programming and convention areas for the day or days you are registered. The Bite of Foolscap requires an additional ticket, which you can buy at the same time. All members agree to abide by our rules; we reserve the right to revoke your membership and ask you to leave if you don’t.
 
 {{STUB: Registration form}}
 
-## <a name="location"></a>When and where?
+## <a name="location"></a>When and where? {#location}
 
 Foolscap 2017 starts on the morning of Friday, February 5, and runs until the evening of the following Sunday, February 7.
 
@@ -63,7 +66,7 @@ We’re proud to host our event at the Hilton Seatac Airport Hotel, right across
 
 The weather in the greater Seattle area in February tends to be cool and wet. Dress in layers and bring a water-repellant coat. A sweater or fleece jacket for cooler areas of the hotel is a good idea, too.
 
-## <a name="functions"></a>What is there to do?
+## <a name="functions"></a>What is there to do? {#functions}
 
 ### <a name="commons"></a>The heart of Foolscap is the Commons.
 
@@ -168,4 +171,3 @@ In summary: _If a person tells you “no”, your business with them is done._ Y
 ### Here’s the news!
 
 {{STUB: newsfeed}}
-

@@ -1,0 +1,17 @@
+<!-- sidebar.html -->
+<nav class="navbar navbar-default navbar-left navbar-inverse sidebar-wrapper">
+  <ul class="sidebar-nav">
+    {% for item in site.landing %}
+    {%   assign key = item[0] %}
+    {%   assign value = item[1] %}
+    <li id="sidebar-item">
+      <a class="page-scroll" href="#{{ key }}">
+        <div class="sidebar-item-display-small hidden">{{ key | capitalize }}</div>
+        <div class="sidebar-item-display-large">{{ value | markdownify }}</div>
+      </a>
+    </li>
+
+    {% endfor %}
+  </ul>
+</div>
+

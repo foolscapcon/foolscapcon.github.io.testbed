@@ -1,9 +1,13 @@
+{% assign assets = site.css_assets %}
 <!DOCTYPE html>
 <!-- default.html -->
 <html lang="en">
   {% include head.html %}
   <body>
-  {{ content }}
+    {{ content }}
+    <script type="text/javascript" src="{{assets}}/javascripts/jquery.min.js"></script>    
+    <script type="text/javascript" src="{{assets}}/javascripts/bootstrap.min.js"></script>
+
   </body>
   {% include footer.html %}
 </html>
