@@ -3,7 +3,7 @@
 
 
 <!-- tagline -->{{ site.tagline }}
-February 5–7, 2017 at the Hilton Seatac Hotel in Seattle, Washington
+February 5–7, 2017 at the Hilton Seatac Airport Hotel in Seattle, Washington
 
 {% assign heading = 'about' %}
 ## <a name="{{ heading }}"></a> {{ site.landing[heading] }} {#{{ heading }}}
@@ -28,21 +28,23 @@ We don’t see diversity as a buzzword or a goal-post, but as an essential eleme
 
 A mainstay at most conventions is the panel – an expert speaker or three sitting at a table at the front of the room discussing things with everyone else sitting in as an audience. That doesn’t work for us because we firmly believe that everyone is interesting. We go beyond simply putting the chairs in a circle – we encourage everyone to add to the talk by asking good questions and providing unique perspectives. You don’t always have to speak up, but you should never feel like you can’t.
 
-### We are open-space.
+### <a name="open"></a>We are open-space.
 
 Most conventions have a rigid schedule of events planned out before the attendees ever get the chance to take part. Sometimes known as an “unconvention” or “open programming”, open-space is a way of turning that completely around. It’s not nearly so chaotic as it may sound! Here are the steps:
 
-At an open-space planning session (we have one for Friday to Saturday and one for Saturday on), you submit an idea for a discussion you’d like to be part of. You don’t have to be an expert!
++ At an open-space planning session (we have one for Friday to Saturday and one for Saturday on), you submit an idea for a discussion you’d like to be part of. You don’t have to be an expert!
 
-Everyone’s ideas are pooled together, and you’ll get to look them all over and mark the ones you’d like to attend. The ideas with the most interest go forward.
++ Everyone’s ideas are pooled together, and you’ll get to look them all over and mark the ones you’d like to attend. The ideas with the most interest go forward.
 
-Starting with an empty scheduling grid, everyone will collaborate on what goes where. Gone are the days of scheduling conflicts – if there are two talks you want to be at at the same time, or something would keep you from being part of a conversation you really don’t want to miss, speak up and we’ll work together on moving things around to accomodate!
++ Starting with an empty scheduling grid, everyone will collaborate on what goes where. Gone are the days of scheduling conflicts – if there are two talks you want to be at at the same time, or something would keep you from being part of a conversation you really don’t want to miss, speak up and we’ll work together on moving things around to accomodate!
+
++ We post the resulting schedule on a wall in the main area of the convention to make it easy to reference anytime. (We'll post it on this site, too!)
 
 If it sounds crazy and experimental, don’t worry – it’s been time-tested and successful at innumerable conventions including several years of Foolscap itself. Open-space works, and once you’ve experienced it, you’ll see why we’ve made it a core feature!
 
 ## <a name="register"></a>How do I register? {#register}
 
-To be part of the convention, you’ll need a membership. The money you spend on your membership supports the convention and its activities throughout the year. It includes admission to all programming and convention areas for the day or days you are registered. The Bite of Foolscap requires an additional ticket, which you can buy at the same time. All members agree to abide by our rules; we reserve the right to revoke your membership and ask you to leave if you don’t.
+To be part of the convention, you’ll need a membership. The money you spend on your membership supports the convention and its activities throughout the year. It includes admission to all programming and convention areas for the day or days you are registered. The Bite of Foolscap requires an additional ticket, which you can buy at the same time. All members agree to abide by [our rules](#rules); we reserve the right to revoke your membership and ask you to leave if you don’t.
 
 {{STUB: Registration form}}
 
@@ -72,7 +74,7 @@ The weather in the greater Seattle area in February tends to be cool and wet. Dr
 
 The Commons is an open space where ideas and connections are created. It’s the place you go between panels, it’s where you’ll come to get your badge at the start of the convention, and it’s where you’ll find comfortable chairs and tables to play games or hang out with new friends. Announcements, gaming, and crafting all happen there – even tea-tasting and molecular gastronomy demonstrations.
 
-Foolscap’s panels and discussions take place in the meeting rooms nearby, and during daytime hours, the Commons expands to include the adjoining Dealers Room, Art Show, and silent auction.
+Foolscap’s panels and discussions take place in the meeting rooms nearby, and during daytime hours, the Commons expands to include the adjoining [Dealers Room](#dealers), [Art Show](#artshow), and [silent auction](#auction).
 
 ### <a name="magicbox"></a>Share media at the Magic Book Box.
 
@@ -86,9 +88,9 @@ We don’t just create space and time for food; we feed every member of the conv
 
 The Foolscap Bazaar adjoins the central Commons, making dealers and artists an integral part of the convention.
 
-Good art starts a conversation. The **Foolscap Art Show** reflects our playful interests in science fiction, fantasy, comics and invention. We encourage new and innovative work that may challenge the boundaries of fantastic art. We want to showcase good work, introduce new artists, and feature new material. Our art show features established talents in fantastic art alongside new creators, and we welcome a diversity of genres and media. Most of the artwork is available for sale, and many of the artists will be at the convention. (Interested in being part of the Foolscap Art Show? Check out our information for artists and contact us at <artshow@foolscap.org> with any questions.)
+<a name="artshow"></a>Good art starts a conversation. The **Foolscap Art Show** reflects our playful interests in science fiction, fantasy, comics and invention. We encourage new and innovative work that may challenge the boundaries of fantastic art. We want to showcase good work, introduce new artists, and feature new material. Our art show features established talents in fantastic art alongside new creators, and we welcome a diversity of genres and media. Most of the artwork is available for sale, and many of the artists will be at the convention. (Interested in being part of the Foolscap Art Show? Check out our information for artists and contact us at <artshow@foolscap.org> with any questions.)
 
-Interesting things are inspiring. Books, comics, games, jewelry, artwork, clothing, costumes, and collectibles – our **Dealers Room** is a mix of familiar shops and new vendors. Express your playful creativity on your body and in your home, and support local creators and businesses at the same time. If you hear about a must-read book at one of the panels or play a new game in the Commons on Friday night, chances are you’ll be able to buy that book or game from one of our dealers. (Interested in selling at Foolscap? Check out our information for dealers and contact us at <dealers@foolscap.org> with any questions.)
+<a name="dealers"></a>Interesting things are inspiring. Books, comics, games, jewelry, artwork, clothing, costumes, and collectibles – our **Dealers Room** is a mix of familiar shops and new vendors. Express your playful creativity on your body and in your home, and support local creators and businesses at the same time. If you hear about a must-read book at one of the panels or play a new game in the Commons on Friday night, chances are you’ll be able to buy that book or game from one of our dealers. (Interested in selling at Foolscap? Check out our [information for dealers](/dealers) and contact us at <dealers@foolscap.org> with any questions.)
 
 ### <a name="volunteer"></a>Volunteers make Foolscap happen.
 
@@ -100,27 +102,29 @@ Our busy weekend of participatory programming means that just about anything can
 
 ### Participatory programming.
 
-At Foolscap, we create the program at the convention. Before the convention, our programming team creates an empty schedule, and fills in a small number of key events – things like large presentations, a game show, or a radio play. The only events we set in advance are those that require complex setup or planning ahead of time. The majority of the schedule is left open to be filled in once everyone is there. We can’t tell in advance what will happen, but previous conventions have included programming like Powerpoint Karaoke, How to Fan Without Killing Each Other, and Creative Artificial Intelligence. Take a look at some more past schedules to get a sense of the topics that can show up at Foolscap.
+At Foolscap, we create the program at the convention. Before the convention, our programming team creates an empty schedule, and fills in a small number of key events – things like large presentations, a game show, or a radio play. The only events we set in advance are those that require complex setup or planning ahead of time. The majority of the schedule is left open to be filled in once everyone is there. We can’t tell in advance what will happen, but previous conventions have included programming like “Powerpoint Karaoke”, “How to Fan Without Killing Each Other”, and “Creative Artificial Intelligence”. [Take a look at some more past schedules](/schedule/history) to get a sense of the topics that can show up at Foolscap.
 
 Everyone gets a voice. We invite every member of the convention to propose program items. We give a brief description to everyone there, and put out a written description for people to look at. Then we all vote on which items we’d like to see. We take as many of the most popular items as we can fit, and organize them in the blanks on the schedule.
-
-We welcome creators to share. We’ve extended the convention tradition of readings into something we call struts. They’re a chance to “strut your stuff” — to share whatever it is you’ve made, written, or are passionate about. We’ve set aside a comfortable corner of the convention space as the Strange Attractor, and we hold struts there. We’ll give a fifteen-minute slot to any member with something to share. Just sign up at the convention.
 
 To participate, all you need to do is show up. We organize the programming twice during the convention, to give more people a chance to get involved. The first Open Space planning session is held on Friday afternoon, to determine Friday evening and Saturday morning programming. A second meeting Saturday morning sets topics for the rest of the weekend. Come with ideas for discussions you’d like to see, something to share in a strut, or just show up at the planning to vote on other people’s suggestions. You might find you have a new idea on the spot!
 
 Our programming reflects our belief that everyone is interesting. Instead of looking for experts and planning the event around them, we welcome everyone to share what they know. We never know what we’ll get, but it’s always a pleasure to find out together.
 
+### <a name="struts"></a>Strut your stuff.
+
+We welcome creators to share. We’ve extended the convention tradition of readings into something we call **struts.** They’re a chance to “strut your stuff” — to share whatever it is you’ve made, written, or are passionate about. We’ve set aside a comfortable corner of the convention space as the Strange Attractor, and we hold struts there. We’ll give a fifteen-minute slot to any member with something to share. Just sign up at the convention.
+
 ### <a name="writing"></a>Writing workshops.
 
-Friday at Foolscap opens with a series of writing workshops the convention itself kicks off. They’re a chance for members to learn from some of the many skilled authors in our community, and a great way to start the weekend by creating something. Foolscap’s 2017 Writing Workshops are Friday, Feb. 5, from 9:30 a.m. to 3 p.m. We’re delighted to have Jennifer Brozek, Cory Skerry, and Randy Henderson leading sessions on fiction writing and John Lovett offering a class on screenwriting plus opportunities for individual screenplay critiques. Visit the workshop page at Foolscap.org to register for the workshops and see detailed session descriptions and instructor bios.
+Friday at Foolscap opens with a series of writing workshops before the convention itself kicks off. They’re a chance for members to learn from some of the many skilled authors in our community, and a great way to start the weekend by creating something. Foolscap’s 2017 writing workshops are on Friday, February 5, from 9:30 am to 3 pm. We’re delighted to have Jennifer Brozek, Cory Skerry, and Randy Henderson leading sessions on fiction writing and John Lovett offering a class on screenwriting plus opportunities for individual screenplay critiques. Visit the [workshop page](/workshop) to register for the workshops and see detailed session descriptions and instructor bios.
 
 ### <a name="bite"></a>The _Bite of Foolscap_ banquet.
 
 Sunday around noon we gather for the _Bite of Foolscap._ It’s a friendly brunch buffet with a surprise or two. Bring your appetite and your wits, and buy your banquet ticket in advance to guarantee your seat!
 
-### <a name="auction"></a>Auction
+### <a name="auction"></a>The Auction.
 
-Proceeds from the Foolscap auction enable us to underwrite community outreach activities and offer low-cost student memberships. Come bid on jewelry, artwork, rare books, and SF, fantasy, and geek-themed items – or just come to watch the show! We’ve put rubber chickens, a tiny pool table, and even the con chair’s dignity on sale in the past, but you’ll have to be there to find out what surprises we have in store this year.
+Proceeds from the Foolscap auction enable us to underwrite community outreach activities and offer low-cost student memberships. Come bid on jewelry, artwork, rare books, and plenty of science fiction, fantasy, and geek-themed items – or just come to watch the show! We’ve put rubber chickens, a tiny pool table, and even the con chair’s dignity on sale in the past, but you’ll have to be here to find out what surprises we have in store this year.
 
 ## <a name="share"></a>May I bring stuff to show or sell?
 
@@ -130,7 +134,7 @@ Proceeds from the Foolscap auction enable us to underwrite community outreach ac
 
 ### Bring stuff for the auction.
 
-Every year we host an auction with proceeds going to fund future Foolscap adventures. If you would like to donate an item, please contact <donations@foolscap.org>.
+Every year we host an [auction](#auction) with proceeds going to fund future Foolscap adventures. If you would like to donate an item, please contact <donations@foolscap.org>.
 
 ### Bring stuff for the art show.
 
@@ -142,7 +146,7 @@ Every year we host an auction with proceeds going to fund future Foolscap advent
 
 ## <a name="info"></a>What else should I know?
 
-Foolscap appreciates your help in making the convention safe, fun and trouble-free.
+<a name="rules"></a>Foolscap appreciates your help in making the convention safe, fun and trouble-free.
 
 + **Badges:** Please wear your badge in plain sight when you are in the hotel so you are clearly identified as a member of the convention.
 
@@ -156,11 +160,7 @@ Foolscap appreciates your help in making the convention safe, fun and trouble-fr
 
 Foolscap strives to be a safe and welcoming place where everyone is respected, comfortable, and can be themselves. All members of the convention are expected to treat other members, hotel staff, and the general public with respect. For that reason we expect everyone to comply with our policy on unacceptable behavior.
 
-In summary: _If a person tells you “no”, your business with them is done._ You need to obtain advance consent before discussing potentially offensive content. You are always free to ask someone to change the subject in your presence, no questions asked. If you experience or observe unacceptable behavior, please report it to a Listener, who will help you.
-
-{{STUB: code of conduct}}
-
-{{STUB: behavior policy}}
+In summary: **If a person tells you “no”, your business with them is done.** You need to obtain advance consent before discussing potentially offensive content. You are always free to ask someone to change the subject in your presence, no questions asked. If you experience or observe unacceptable behavior, please report it to a Listener, who will help you.
 
 ## <a name="news"></a>What’s new this year?
 
